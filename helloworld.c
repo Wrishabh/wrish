@@ -7,9 +7,9 @@ int main() {
   
   sum = a+b;
   printf("sum = %d \n",sum);
-  
   sub =  a-b;
   printf("sub = %d\n",sub);
+  printf("final copy .. \n thank you.. ");
   return 0;
 
 }
